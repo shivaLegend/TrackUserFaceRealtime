@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c7111d47c8764d8227ed507c2c33483d"
+build_time: [1553054660, 532462000]
+inputs:
+  "/Users/nguyenductai/Downloads/TrackingTheUsersFaceInRealTime/VisionFaceTrack/ViewController.swift": [1528970768, 0]
+  "/Users/nguyenductai/Downloads/TrackingTheUsersFaceInRealTime/VisionFaceTrack/AppDelegate.swift": [1528970768, 0]
